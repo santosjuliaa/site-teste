@@ -1,0 +1,13 @@
+body { background-color: lavenderblush; }
+#box1 {margin-left: 0px;
+	margin-right: 0px;
+text-align: center;}
+h1 {color: mediumpurple;
+font-family: fantasy;
+font-size:50px }
+p {font-family: cursive;
+font-size: 30px}
+button {color: purple;
+	font-size: 50px;
+	background-color: whitesmoke;
+	border-radius: 30px}
